@@ -1,7 +1,5 @@
 Proje: Araba Kiralama ve Satış Sitesi
 
-Kullanıcı Giriş kısmına kayıt olabilirsiniz.
-
 Kullanıcı Kısmından yapılabilecek işlemler :
 1) Yeni kayıt yapılabilir
 2) Kayıtlı hesaba giriş yapılabilir.
